@@ -1,0 +1,7 @@
+modelo 1 - loss: 0.8056 - acc: 0.7069 - val_loss: 0.8794 - val_acc: 0.6649
+
+modelo 2 - loss: 0.7298 - acc: 0.7431 - val_loss: 0.9309 - val_acc: 0.6769
+
+modelo 3 - loss: 0.7331 - acc: 0.7455 - val_loss: 0.8134 - val_acc: 0.6850
+
+modelo 4 - loss: 0.7405 - acc: 0.7351 - val_loss: 0.9799 - val_acc: 0.6944
